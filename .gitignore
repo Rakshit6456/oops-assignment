@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# Runtime data file (created when the program saves rooms)
+hotelrooms.dat
+
+# macOS
+.DS_Store
+
+# VS Code workspace files
+.vscode/
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.log
